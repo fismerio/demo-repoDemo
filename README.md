@@ -1,3 +1,4 @@
 # Demo
 
-Some description!
+Some description on mobile.
+
